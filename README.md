@@ -5,5 +5,7 @@
   This Custom WooCommerce Payment Plugin allows you to process transactions in up to 145 currencies, with pricing and settlement in up to 15 major world currencies depending on the bank where you hold your merchant account. Whether you are a small business just starting to expand globally or an established enterprise looking to reach new markets, this plugin offers the flexibility and security you need.
 </p>
 ![FACPluginCheckoutPage](https://github.com/anis123ahmad/woocommerce-gateway-fac-powertranz/assets/31318984/3cfaec40-040d-4de4-9405-4da23eaea3bd)
+<br />
 ![WooCommerceFACPluginConfigurationPage](https://github.com/anis123ahmad/woocommerce-gateway-fac-powertranz/assets/31318984/d55d2dab-8a65-4819-bb7f-1d16ce2b03da)
+<br />
 ![WooCommerceFACPluginSettingsPage](https://github.com/anis123ahmad/woocommerce-gateway-fac-powertranz/assets/31318984/d67c2808-26aa-4daf-b38a-cc7bf292b753)
